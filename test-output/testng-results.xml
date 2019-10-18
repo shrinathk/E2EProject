@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9087" started-at="2019-10-14T16:19:59 IST" finished-at="2019-10-14T16:20:08 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="9087" started-at="2019-10-14T16:19:59 IST" finished-at="2019-10-14T16:20:08 IST">
+      <class name="endtoendtesting.Assertions">
+        <test-method status="PASS" signature="initializeTesting()[pri:0, instance:endtoendtesting.Assertions@fa4c865]" name="initializeTesting" is-config="true" duration-ms="6371" started-at="2019-10-14T16:19:59 IST" finished-at="2019-10-14T16:20:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTesting -->
+        <test-method status="PASS" signature="TitleAssertions(java.lang.String)[pri:0, instance:endtoendtesting.Assertions@fa4c865]" name="TitleAssertions" duration-ms="2511" started-at="2019-10-14T16:20:05 IST" finished-at="2019-10-14T16:20:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://qaclickacademy.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleAssertions -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:endtoendtesting.Assertions@fa4c865]" name="closeBrowser" is-config="true" duration-ms="156" started-at="2019-10-14T16:20:08 IST" finished-at="2019-10-14T16:20:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- endtoendtesting.Assertions -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

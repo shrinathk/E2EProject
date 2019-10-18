@@ -1,0 +1,4 @@
+16:20:08.259 [main] INFO  endtoendtesting.Assertions - Title matches with requirement
+16:26:19.224 [main] INFO  endtoendtesting.Assertions - WebDdriver initialized
+16:26:24.098 [main] INFO  endtoendtesting.Assertions - URL opened
+16:26:24.186 [main] INFO  endtoendtesting.Assertions - Title matches with requirement
